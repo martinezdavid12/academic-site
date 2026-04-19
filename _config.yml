@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "David Martinez"
   pronouns         : "he/him"  
   bio              : "EECS and Math at UC Berkeley"
   location         : "Berkeley, CA  "
   employer         : "UC Berkeley"
   uri              : # URL
-  email            : "martinezdavid[at]berkeley.edu" 
+  email            : "martinezdavid@berkeley.edu" 
 
   # Academic websites
   academia         : # URL
