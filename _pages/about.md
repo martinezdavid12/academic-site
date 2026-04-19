@@ -18,6 +18,3 @@ This summer, I'll be joining Waymo as an ML Research intern.
 - World models
 - Biological and molecular foundation models
 - Multimodal and vision-centered models for robotics and biomedical applications
-<!-- ## News
-
-- **[Month Year]** — [Something new happened] -->
