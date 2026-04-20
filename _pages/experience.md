@@ -16,26 +16,20 @@ Berkeley Computational Imaging Lab · Advisor: Prof. Laura Waller · Berkeley, C
 
 **GPU System Performance Architect Intern** — *August 2025–December 2025*  
 NVIDIA · Manager: Dr. Joonsik Park · Santa Clara, CA
-- Designed Python tooling and analysis pipelines to benchmark GPU performance on AI workloads and characterize datacenter performance, enabling automated large-scale experiments and data-driven system optimization
-
 ---
 
 **Machine Learning Engineer Intern** — *May 2025–August 2025*  
 Apple Inc. · Manager: Dr. Jeremy Neuman · Cupertino, CA
-- Designed novel scalable ML models and SQL pipelines unifying heterogeneous datasets, enabling robust A/B and causal analysis for production decision-making and recommendation systems
 
 ---
 
 **Course Staff – Reader** — *January 2025–May 2025*  
 UC Berkeley Department of EECS · Berkeley, CA
-- Graded assignments, resolved student inquiries, and managed logistics for the core machine learning course at UC Berkeley
-
 ---
 
 **Software Engineer Intern** — *May 2024–August 2024*  
 Microsoft · Redmond, WA
-- Conducted applied research on optimizing LLM inference and distributed systems, achieving measurable improvements in runtime efficiency and resource utilization
-- Implemented parallel Scala/Python data-processing pipelines with Spark on heterogeneous GPU/CPU clusters; developed token-compression architectures for long-context inference under fixed compute budgets
+
 
 ---
 
