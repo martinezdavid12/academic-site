@@ -15,11 +15,11 @@ Berkeley Computational Imaging Lab · Advisor: Prof. Laura Waller · Berkeley, C
 ---
 
 **GPU System Performance Architect Intern** — *August 2025–December 2025*  
-NVIDIA · Manager: Dr. Joonsik Park · Santa Clara, CA
+NVIDIA · Santa Clara, CA
 ---
 
 **Machine Learning Engineer Intern** — *May 2025–August 2025*  
-Apple Inc. · Manager: Dr. Jeremy Neuman · Cupertino, CA
+Apple Inc. · Cupertino, CA
 
 ---
 
